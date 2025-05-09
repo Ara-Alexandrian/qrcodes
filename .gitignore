@@ -41,4 +41,6 @@ venv.bak/
 *.sublime-project
 *.sublime-workspace
 
+# Claude settings
+.claude/
 **/.claude/settings.local.json
