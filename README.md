@@ -23,8 +23,8 @@ This project generates custom QR codes that integrate with the Mary Bird Perkins
 
 2. Clone this repository:
    ```
-   git clone https://github.com/yourusername/mbp-qrcodes.git
-   cd mbp-qrcodes
+   git clone https://github.com/yourusername/MBP-QRcodes.git
+   cd MBP-QRcodes
    ```
 
 ## Usage
