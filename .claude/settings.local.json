@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(conda create:*)",
+      "Bash(conda activate:*)",
+      "Bash(pip install:*)",
+      "Bash(/config/miniconda3/envs/QRC/bin/pip install numpy pillow qrcode opencv-python)",
+      "Bash(chmod:*)",
+      "Bash(/config/miniconda3/envs/QRC/bin/python:*)",
+      "Bash(ls:*)",
+      "Bash(rm:*)",
+      "Bash(/config/github/qrcodes/Generated_QR/*)",
+      "Bash(find:*)",
+      "Bash(mkdir:*)",
+      "Bash(wget:*)",
+      "Bash(unzip:*)",
+      "Bash(/config/miniconda3/envs/QRC/bin/python batch_generate.py -u \"https://www.marybird.org/test1\" \"https://www.marybird.org/test2\" -m \"IBA\" -d \"FC65-TR-XC\" -s \"555123\")"
+    ],
+    "deny": []
+  }
+}
